@@ -1,0 +1,21 @@
+h1 {
+    font-family: monospace;
+    text-align: center;
+}
+
+#meme {
+    background-color: cornsilk;
+}
+
+.memes {
+    width: 100%;
+    text-align: center;
+}
+.memes img {
+    max-width: 200px;
+}
+.memes img:hover {
+    max-width: 400px;
+    min-width: 400px;
+    box-shadow: 0px 16px 32px #000;
+}
